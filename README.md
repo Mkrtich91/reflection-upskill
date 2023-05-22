@@ -111,10 +111,8 @@ Implement the [GetPropertiesDataDetails](Reflection/ReflectionOperations.cs#L63)
 #### See also
 
 * C# Language Reference
-  * https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection
-  * https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/viewing-type-information
-  * https://learn.microsoft.com/en-us/dotnet/standard/attributes/retrieving-information-stored-in-attributes
-  * https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection-and-generic-types
-  * https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types
-  * https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/get-type-member-information
-  * https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection-for-windows-store-apps
+  * [Reflection in .NET](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection)
+  * [Viewing Type Information](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/viewing-type-information)
+  * [Reflection and Generic Types](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/reflection-and-generic-types)
+  * [Dynamically Loading and Using Types](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types)
+  * [How to: Get type and member information by using reflection](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/get-type-member-information)
